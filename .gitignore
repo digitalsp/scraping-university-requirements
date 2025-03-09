@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.mypy_cache
+
+# Virtual environments
+.venv
+
+# dev
+scraping-script-add-edit-html.py
+scraping-script.py
+*.csv
+backuped_datas
+diff_html
